@@ -1,0 +1,21 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+tour.description = Recorrido virtual modelo 1
+
+### Título
+tour.name = Jardines de bellas artes. Modelo 1
+
+## Skin
+
+### Etiqueta
+Label_372869B7_38F0_66C4_41B5_B21E3AF2A310.text = Recorrido virtual hecho con fines demostrativo por
+Label_372869B7_38F0_66C4_41B5_B21E3AF2A310_mobile.text = Recorrido virtual hecho con fines demostrativo por 
+
+## Acción
+
+### URL
+LinkBehaviour_28401E90_38F0_7ADD_4140_308103825070.source = https://api.whatsapp.com/send?phone=18296840422&text=Me%20gustaria%20tener%20mas%20informacion
+LinkBehaviour_291F6CC6_38F0_5E44_41C2_D36815DC1D8C.source = https://api.whatsapp.com/send?phone=18296840422&text=Me%20gustaria%20tener%20mas%20informacion
